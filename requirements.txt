@@ -1,0 +1,4 @@
+# Versions tested in the package preparation environment (Python 3.13).
+# These are NOT verified as the historical versions used for the original study.
+numpy==2.3.5
+scipy==1.17.0
